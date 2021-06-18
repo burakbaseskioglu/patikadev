@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/bin/Debug/net5.0/operatorler.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/bin/Debug/net5.0/operatorler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/bin/Debug/net5.0/ref/operatorler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/bin/Debug/net5.0/operatorler.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/obj/Debug/net5.0/operatorler.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/obj/Debug/net5.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/obj/Debug/net5.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/obj/Debug/net5.0/operatorler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/obj/Debug/net5.0/ref/operatorler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/obj/Debug/net5.0/operatorler.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/operatorler/obj/Debug/net5.0/operatorler.genruntimeconfig.cache
