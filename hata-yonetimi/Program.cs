@@ -27,6 +27,7 @@ namespace hata_yonetimi
                 //int a = int.Parse("test");
                 int a = int.Parse("-20000000000");
             }
+            
             catch (ArgumentNullException ex)
             {
                 Console.WriteLine("Boş değer girdiniz.");
