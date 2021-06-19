@@ -1,2 +1,2 @@
-#Patika.dev
-##C# 101 Ders Notlari
+# Patika.dev
+## C# 101 Ders Notlari
