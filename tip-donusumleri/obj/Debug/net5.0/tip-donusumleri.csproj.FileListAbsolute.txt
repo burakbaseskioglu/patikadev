@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/bin/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/obj/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.genruntimeconfig.cache
