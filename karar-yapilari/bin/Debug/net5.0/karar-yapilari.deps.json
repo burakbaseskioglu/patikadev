@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "karar-yapilari/1.0.0": {
+        "runtime": {
+          "karar-yapilari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "karar-yapilari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
