@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/bin/Debug/net5.0/karar-yapilari-switch-case.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/bin/Debug/net5.0/karar-yapilari-switch-case.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/bin/Debug/net5.0/karar-yapilari-switch-case.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/bin/Debug/net5.0/karar-yapilari-switch-case.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/bin/Debug/net5.0/ref/karar-yapilari-switch-case.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/bin/Debug/net5.0/karar-yapilari-switch-case.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/obj/Debug/net5.0/karar-yapilari-switch-case.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/obj/Debug/net5.0/karar-yapilari-switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/obj/Debug/net5.0/karar-yapilari-switch-case.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/obj/Debug/net5.0/karar-yapilari-switch-case.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/obj/Debug/net5.0/karar-yapilari-switch-case.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/obj/Debug/net5.0/karar-yapilari-switch-case.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/obj/Debug/net5.0/ref/karar-yapilari-switch-case.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/obj/Debug/net5.0/karar-yapilari-switch-case.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/karar-yapilari-switch-case/obj/Debug/net5.0/karar-yapilari-switch-case.genruntimeconfig.cache
