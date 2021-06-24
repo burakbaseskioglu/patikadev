@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/bin/Debug/net5.0/donguler-for.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/bin/Debug/net5.0/donguler-for.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/bin/Debug/net5.0/donguler-for.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/bin/Debug/net5.0/donguler-for.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/bin/Debug/net5.0/ref/donguler-for.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/bin/Debug/net5.0/donguler-for.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/obj/Debug/net5.0/donguler-for.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/obj/Debug/net5.0/donguler-for.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/obj/Debug/net5.0/donguler-for.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/obj/Debug/net5.0/donguler-for.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/obj/Debug/net5.0/donguler-for.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/obj/Debug/net5.0/donguler-for.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/obj/Debug/net5.0/ref/donguler-for.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/obj/Debug/net5.0/donguler-for.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-for/obj/Debug/net5.0/donguler-for.genruntimeconfig.cache
