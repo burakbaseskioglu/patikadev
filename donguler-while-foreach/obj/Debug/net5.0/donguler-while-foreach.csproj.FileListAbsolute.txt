@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/bin/Debug/net5.0/ref/donguler-while-foreach.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/obj/Debug/net5.0/ref/donguler-while-foreach.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.genruntimeconfig.cache
