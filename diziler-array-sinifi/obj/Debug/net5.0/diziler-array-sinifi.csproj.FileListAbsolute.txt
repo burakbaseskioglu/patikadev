@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/bin/Debug/net5.0/diziler-array-sinifi.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/bin/Debug/net5.0/diziler-array-sinifi.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/bin/Debug/net5.0/diziler-array-sinifi.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/bin/Debug/net5.0/diziler-array-sinifi.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/bin/Debug/net5.0/ref/diziler-array-sinifi.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/bin/Debug/net5.0/diziler-array-sinifi.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/obj/Debug/net5.0/diziler-array-sinifi.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/obj/Debug/net5.0/diziler-array-sinifi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/obj/Debug/net5.0/diziler-array-sinifi.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/obj/Debug/net5.0/diziler-array-sinifi.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/obj/Debug/net5.0/diziler-array-sinifi.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/obj/Debug/net5.0/diziler-array-sinifi.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/obj/Debug/net5.0/ref/diziler-array-sinifi.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/obj/Debug/net5.0/diziler-array-sinifi.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler-array-sinifi/obj/Debug/net5.0/diziler-array-sinifi.genruntimeconfig.cache
