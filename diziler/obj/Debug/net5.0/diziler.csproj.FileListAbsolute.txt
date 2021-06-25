@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/bin/Debug/net5.0/diziler.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/bin/Debug/net5.0/diziler.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/bin/Debug/net5.0/diziler.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/bin/Debug/net5.0/diziler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/bin/Debug/net5.0/ref/diziler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/bin/Debug/net5.0/diziler.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/obj/Debug/net5.0/diziler.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/obj/Debug/net5.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/obj/Debug/net5.0/diziler.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/obj/Debug/net5.0/diziler.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/obj/Debug/net5.0/diziler.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/obj/Debug/net5.0/diziler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/obj/Debug/net5.0/ref/diziler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/obj/Debug/net5.0/diziler.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/diziler/obj/Debug/net5.0/diziler.genruntimeconfig.cache
