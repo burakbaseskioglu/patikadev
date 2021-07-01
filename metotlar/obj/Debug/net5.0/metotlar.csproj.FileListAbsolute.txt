@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/bin/Debug/net5.0/metotlar.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/bin/Debug/net5.0/metotlar.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/bin/Debug/net5.0/metotlar.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/bin/Debug/net5.0/metotlar.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/bin/Debug/net5.0/ref/metotlar.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/bin/Debug/net5.0/metotlar.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/obj/Debug/net5.0/metotlar.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/obj/Debug/net5.0/metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/obj/Debug/net5.0/metotlar.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/obj/Debug/net5.0/metotlar.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/obj/Debug/net5.0/metotlar.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/obj/Debug/net5.0/metotlar.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/obj/Debug/net5.0/ref/metotlar.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/obj/Debug/net5.0/metotlar.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/metotlar/obj/Debug/net5.0/metotlar.genruntimeconfig.cache
