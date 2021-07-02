@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/bin/Debug/net5.0/recursive-extension-metotlar.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/bin/Debug/net5.0/recursive-extension-metotlar.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/bin/Debug/net5.0/recursive-extension-metotlar.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/bin/Debug/net5.0/recursive-extension-metotlar.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/bin/Debug/net5.0/ref/recursive-extension-metotlar.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/bin/Debug/net5.0/recursive-extension-metotlar.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/obj/Debug/net5.0/recursive-extension-metotlar.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/obj/Debug/net5.0/recursive-extension-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/obj/Debug/net5.0/recursive-extension-metotlar.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/obj/Debug/net5.0/recursive-extension-metotlar.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/obj/Debug/net5.0/recursive-extension-metotlar.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/obj/Debug/net5.0/recursive-extension-metotlar.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/obj/Debug/net5.0/ref/recursive-extension-metotlar.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/obj/Debug/net5.0/recursive-extension-metotlar.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/recursive-extension-metotlar/obj/Debug/net5.0/recursive-extension-metotlar.genruntimeconfig.cache
