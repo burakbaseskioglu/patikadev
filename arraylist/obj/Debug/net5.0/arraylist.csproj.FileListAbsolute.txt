@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/bin/Debug/net5.0/arraylist.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/bin/Debug/net5.0/arraylist.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/bin/Debug/net5.0/arraylist.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/bin/Debug/net5.0/arraylist.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/bin/Debug/net5.0/ref/arraylist.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/bin/Debug/net5.0/arraylist.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/obj/Debug/net5.0/arraylist.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/obj/Debug/net5.0/arraylist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/obj/Debug/net5.0/arraylist.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/obj/Debug/net5.0/arraylist.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/obj/Debug/net5.0/arraylist.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/obj/Debug/net5.0/arraylist.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/obj/Debug/net5.0/ref/arraylist.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/obj/Debug/net5.0/arraylist.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/arraylist/obj/Debug/net5.0/arraylist.genruntimeconfig.cache
