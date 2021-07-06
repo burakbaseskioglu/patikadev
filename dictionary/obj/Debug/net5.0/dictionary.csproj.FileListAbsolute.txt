@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/bin/Debug/net5.0/dictionary.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/bin/Debug/net5.0/dictionary.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/bin/Debug/net5.0/dictionary.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/bin/Debug/net5.0/dictionary.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/bin/Debug/net5.0/ref/dictionary.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/bin/Debug/net5.0/dictionary.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/obj/Debug/net5.0/dictionary.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/obj/Debug/net5.0/dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/obj/Debug/net5.0/dictionary.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/obj/Debug/net5.0/dictionary.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/obj/Debug/net5.0/dictionary.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/obj/Debug/net5.0/dictionary.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/obj/Debug/net5.0/ref/dictionary.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/obj/Debug/net5.0/dictionary.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/dictionary/obj/Debug/net5.0/dictionary.genruntimeconfig.cache
