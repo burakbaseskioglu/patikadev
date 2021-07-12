@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/bin/Debug/net5.0/sinif-kavrami.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/bin/Debug/net5.0/sinif-kavrami.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/bin/Debug/net5.0/sinif-kavrami.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/bin/Debug/net5.0/sinif-kavrami.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/bin/Debug/net5.0/ref/sinif-kavrami.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/bin/Debug/net5.0/sinif-kavrami.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/obj/Debug/net5.0/ref/sinif-kavrami.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/sinif-kavrami/obj/Debug/net5.0/sinif-kavrami.genruntimeconfig.cache
