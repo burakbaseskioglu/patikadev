@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/bin/Debug/net5.0/encapsulation.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/bin/Debug/net5.0/encapsulation.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/bin/Debug/net5.0/ref/encapsulation.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/bin/Debug/net5.0/encapsulation.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/obj/Debug/net5.0/encapsulation.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/obj/Debug/net5.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/obj/Debug/net5.0/encapsulation.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/obj/Debug/net5.0/encapsulation.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/obj/Debug/net5.0/ref/encapsulation.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/obj/Debug/net5.0/encapsulation.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/encapsulation/obj/Debug/net5.0/encapsulation.genruntimeconfig.cache
