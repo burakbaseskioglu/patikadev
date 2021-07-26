@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/bin/Debug/net5.0/ref/static-sinif-ve-uyeler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/obj/Debug/net5.0/ref/static-sinif-ve-uyeler.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.genruntimeconfig.cache
