@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/bin/Debug/net5.0/enum-kavrami.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/bin/Debug/net5.0/enum-kavrami.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/bin/Debug/net5.0/enum-kavrami.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/bin/Debug/net5.0/enum-kavrami.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/bin/Debug/net5.0/ref/enum-kavrami.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/bin/Debug/net5.0/enum-kavrami.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/obj/Debug/net5.0/enum-kavrami.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/obj/Debug/net5.0/enum-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/obj/Debug/net5.0/enum-kavrami.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/obj/Debug/net5.0/enum-kavrami.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/obj/Debug/net5.0/enum-kavrami.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/obj/Debug/net5.0/enum-kavrami.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/obj/Debug/net5.0/ref/enum-kavrami.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/obj/Debug/net5.0/enum-kavrami.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/enum-kavrami/obj/Debug/net5.0/enum-kavrami.genruntimeconfig.cache
