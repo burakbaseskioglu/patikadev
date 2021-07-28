@@ -8,6 +8,12 @@ namespace inheritance
         {
             Console.WriteLine("Hayvanlar adaptasyon kurabilir.");
         }
+
+        public override void UyaranlaraTepki()
+        {
+            base.UyaranlaraTepki();//Sanal metodu burada bir kere kullan
+            Console.WriteLine("Hayvanlar temasa tepki verir.");
+        }
     }
 
     public class Surungenler : Hayvanlar
@@ -34,6 +40,7 @@ namespace inheritance
             base.Beslenme();
             base.Solunum();
             base.Bosaltim();
+            base.UyaranlaraTepki();
         }
 
         public void Ucmak()
