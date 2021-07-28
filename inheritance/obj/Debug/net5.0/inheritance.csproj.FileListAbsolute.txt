@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/bin/Debug/net5.0/inheritance.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/bin/Debug/net5.0/inheritance.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/bin/Debug/net5.0/inheritance.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/bin/Debug/net5.0/inheritance.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/bin/Debug/net5.0/ref/inheritance.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/bin/Debug/net5.0/inheritance.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/obj/Debug/net5.0/inheritance.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/obj/Debug/net5.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/obj/Debug/net5.0/inheritance.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/obj/Debug/net5.0/inheritance.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/obj/Debug/net5.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/obj/Debug/net5.0/inheritance.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/obj/Debug/net5.0/ref/inheritance.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/obj/Debug/net5.0/inheritance.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/inheritance/obj/Debug/net5.0/inheritance.genruntimeconfig.cache
