@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/bin/Debug/net5.0/interfaces-example.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/bin/Debug/net5.0/interfaces-example.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/bin/Debug/net5.0/interfaces-example.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/bin/Debug/net5.0/interfaces-example.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/bin/Debug/net5.0/ref/interfaces-example.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/bin/Debug/net5.0/interfaces-example.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/obj/Debug/net5.0/interfaces-example.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/obj/Debug/net5.0/interfaces-example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/obj/Debug/net5.0/interfaces-example.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/obj/Debug/net5.0/interfaces-example.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/obj/Debug/net5.0/interfaces-example.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/obj/Debug/net5.0/interfaces-example.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/obj/Debug/net5.0/ref/interfaces-example.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/obj/Debug/net5.0/interfaces-example.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/interfaces-example/obj/Debug/net5.0/interfaces-example.genruntimeconfig.cache
