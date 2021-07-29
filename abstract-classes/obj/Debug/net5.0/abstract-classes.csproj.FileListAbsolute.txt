@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/bin/Debug/net5.0/abstract-classes.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/bin/Debug/net5.0/abstract-classes.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/bin/Debug/net5.0/abstract-classes.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/bin/Debug/net5.0/abstract-classes.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/bin/Debug/net5.0/ref/abstract-classes.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/bin/Debug/net5.0/abstract-classes.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/obj/Debug/net5.0/abstract-classes.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/obj/Debug/net5.0/abstract-classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/obj/Debug/net5.0/abstract-classes.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/obj/Debug/net5.0/abstract-classes.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/obj/Debug/net5.0/abstract-classes.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/obj/Debug/net5.0/abstract-classes.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/obj/Debug/net5.0/ref/abstract-classes.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/obj/Debug/net5.0/abstract-classes.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/abstract-classes/obj/Debug/net5.0/abstract-classes.genruntimeconfig.cache
