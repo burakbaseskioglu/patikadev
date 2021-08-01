@@ -7,6 +7,6 @@ namespace proje_1.Entities
     {
         public string FirstName;
         public string LastName;
-        public int PhoneNumber;
+        public string PhoneNumber;
     }
 }

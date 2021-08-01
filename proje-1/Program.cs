@@ -12,79 +12,97 @@ namespace proje_1
         {
             personList = new List<Person>()
             {
-                new Person(){ FirstName = "Deneme", LastName="Soyad", PhoneNumber = 12345},
-                new Person(){ FirstName = "Deneme", LastName="Soyad", PhoneNumber = 12345},
-                new Person(){ FirstName = "Deneme", LastName="Soyad", PhoneNumber = 12345}
+                new Person(){ FirstName = "Ali", LastName="Aydın", PhoneNumber = "05301112233"},
+                new Person(){ FirstName = "Fatih", LastName="Yılmaz", PhoneNumber = "05342221133"},
+                new Person(){ FirstName = "Deniz", LastName="Öztürk", PhoneNumber = "05303332211"},
+                new Person(){ FirstName = "Ayşe", LastName="Demir", PhoneNumber = "05464442233"},
+                new Person(){ FirstName = "Aslı", LastName="Yiğit", PhoneNumber = "05356662232"}
             };
 
-            int secim;
-            string yanit;
-            do
-            {
-                Console.WriteLine("Lütfen Yapmak istediğiniz işlemi seçiniz.");
-                Console.WriteLine("*****************************************");
-                Console.WriteLine("1 - Yeni numara kaydetmek");
-                Console.WriteLine("2 - Varolan numarayı silmek");
-                Console.WriteLine("3 - Varolan numarayı güncelleme");
-                Console.WriteLine("4 - Rehberi listelemek (A-Z veya Z-A seçimli)");
-                Console.WriteLine("5 - Rehberde arama yapmak");
-
-                Console.Write("İşlem:");
-                secim = int.Parse(Console.ReadLine());
-
-                switch (secim)
-                {
-                    case 1:
-                        AddPerson();
-                        break;
-                    case 2:
-                        DeletePerson();
-                        break;
-                    case 3:
-                        UpdatePerson();
-                        break;
-                    case 4:
-                        GetPersonList();
-                        break;
-                    case 5:
-                        GetByFirstNameOrPhoneNumber();
-                        break;
-                }
-                Console.Write("Devam etmek isiyor musunuz?(e-h):");
-                yanit = Console.ReadLine();
-            } while (yanit == "e");
-
+            StartPage();
         }
 
-        public static void GetPersonList()
+        public static void StartPage()
+        {
+            Console.WriteLine("Lütfen Yapmak istediğiniz işlemi seçiniz.");
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("1 - Yeni numara kaydetmek");
+            Console.WriteLine("2 - Varolan numarayı silmek");
+            Console.WriteLine("3 - Varolan numarayı güncelleme");
+            Console.WriteLine("4 - Rehberi listelemek (A-Z veya Z-A seçimli)");
+            Console.WriteLine("5 - Rehberde arama yapmak");
+            Console.WriteLine("6 - Çıkış yapmak");
+
+            Console.Write("İşlem:");
+            int choice = int.Parse(Console.ReadLine());
+            MainPage(choice);
+        }
+
+        public static void MainPage(int choice)
+        {
+            switch (choice)
+            {
+                case 1:
+                    AddPerson();
+                    StartPage();
+                    break;
+                case 2:
+                    DeletePerson();
+                    StartPage();
+                    break;
+                case 3:
+                    UpdatePerson();
+                    StartPage();
+                    break;
+                case 4:
+                    PersonList();
+                    StartPage();
+                    break;
+                case 5:
+                    GetByFirstNameOrPhoneNumber();
+                    StartPage();
+                    break;
+                case 6:
+                    Console.WriteLine("Çıkış yapıldı...");
+                    break;
+            }
+        }
+
+        public static void GetPersonList(List<Person> list)
+        {
+            int i = 1;
+            foreach (var item in list)
+            {
+                Console.WriteLine($"İsim: {item.FirstName}\nSoyisim: {item.LastName}\nTelefon Numarası: {item.PhoneNumber}");
+                if (personList.Count != i)
+                {
+                    Console.WriteLine();
+                }
+                i++;
+            }
+        }
+
+        public static void PersonList()
         {
             Console.WriteLine("Rehberi nasıl listelemek istersiniz?");
             Console.WriteLine("1 - A-Z sıralı");
             Console.WriteLine("2 - Z-A sıralı");
             Console.Write("Seçiminiz:");
-            int secim = int.Parse(Console.ReadLine());
+            int choice = int.Parse(Console.ReadLine());
 
-            if (secim == 1)
+            if (choice == 1)
             {
                 Console.WriteLine();
                 Console.WriteLine("Telefon Rehberi");
                 Console.WriteLine("*******************************************");
-                foreach (var item in personList)
-                {
-                    Console.WriteLine($"İsim: {item.FirstName}\nSoyisim: {item.LastName}\nTelefon Numarası: {item.PhoneNumber}");
-                    Console.WriteLine("-");
-                }
+                GetPersonList(personList.OrderBy(x => x.FirstName).ToList());
             }
-            else if (secim == 2)
+            else if (choice == 2)
             {
                 Console.WriteLine();
                 Console.WriteLine("Telefon Rehberi");
                 Console.WriteLine("*******************************************");
-                foreach (var item in personList.OrderByDescending(x => x.FirstName))
-                {
-                    Console.WriteLine($"İsim: {item.FirstName}\nSoyisim: {item.LastName}\nTelefon Numarası: {item.PhoneNumber}");
-                    Console.WriteLine("-");
-                }
+                GetPersonList(personList.OrderByDescending(x => x.FirstName).ToList());
             }
         }
 
@@ -95,7 +113,7 @@ namespace proje_1
             Console.Write("Lütfen soyisim giriniz:");
             string lastName = Console.ReadLine();
             Console.Write("Lütfen telefonu giriniz:");
-            int phoneNumber = int.Parse(Console.ReadLine());
+            string phoneNumber = Console.ReadLine();
 
             personList.Add(new Person()
             {
@@ -113,9 +131,9 @@ namespace proje_1
             var query = personList.FirstOrDefault(x => x.FirstName == firstNameOrLastName || x.LastName == firstNameOrLastName);
             if (query != null)
             {
-                Console.Write($"{query.FirstName} {query.LastName} rehberden silinecektir, onaylıyoru musunuz? (e/h)");
-                char secim = Convert.ToChar(Console.ReadLine().ToLower());
-                if (secim == 'e')
+                Console.Write($"{query.FirstName} {query.LastName} rehberden silinecektir, onaylıyor musunuz? (e/h):");
+                char choice = Convert.ToChar(Console.ReadLine().ToLower());
+                if (choice == 'e')
                 {
                     personList.Remove(query);
                     Console.WriteLine($"{query.FirstName} {query.LastName} isimli kişi rehberden başarı ile silindi");
@@ -128,6 +146,18 @@ namespace proje_1
             else
             {
                 Console.WriteLine("Aradığınız kriterlere uygun veri bulunamadı. Ne yapmak istiyorsunuz?");
+                Console.WriteLine("* Silmeyi sonlandırmak için : (1)");
+                Console.WriteLine("* Yeniden denemek için : (2)");
+                Console.Write("Seçiminiz:");
+                int choice = int.Parse(Console.ReadLine());
+                if (choice == 1)
+                {
+                    StartPage();
+                }
+                else if (choice == 2)
+                {
+                    DeletePerson();
+                }
             }
         }
 
@@ -140,9 +170,9 @@ namespace proje_1
             if (query != null)
             {
                 Console.Write("Seçtiğiniz kişi güncellenecektir, onaylıyor musunuz? (e/h)");
-                char secim = Convert.ToChar(Console.ReadLine().ToLower());
+                char choice = Convert.ToChar(Console.ReadLine().ToLower());
 
-                if (secim == 'e')
+                if (choice == 'e')
                 {
                     personList.Remove(query);
                     AddPerson();
@@ -156,6 +186,18 @@ namespace proje_1
             else
             {
                 Console.WriteLine("Aradığınız kriterlere uygun veri bulunamadı. Ne yapmak istiyorsunuz?");
+                Console.WriteLine("* Güncellemeyi sonlandırmak için : (1)");
+                Console.WriteLine("* Yeniden denemek için : (2)");
+                Console.WriteLine("Seçiminiz:");
+                int choice = int.Parse(Console.ReadLine());
+                if (choice == 1)
+                {
+                    StartPage();
+                }
+                else if (choice == 2)
+                {
+                    UpdatePerson();
+                }
             }
         }
 
@@ -167,11 +209,10 @@ namespace proje_1
             Console.WriteLine("İsim veya soyisme göre arama yapmak için: (1)");
             Console.WriteLine("Telefon numarasına göre arama yapmak için: (2)");
             Console.Write("Seçiminiz:");
-            int secim = int.Parse(Console.ReadLine());
+            int choice = int.Parse(Console.ReadLine());
 
-            if (secim == 1)
+            if (choice == 1)
             {
-                int i = 1;
                 Console.Write("İsim veya soyisim giriniz:");
                 string firstNameOrLastName = Console.ReadLine();
 
@@ -179,39 +220,18 @@ namespace proje_1
 
                 Console.WriteLine("Arama Sonuçlarınız:");
                 Console.WriteLine("**********************************************");
-                foreach (var item in query)
-                {
-                    Console.WriteLine($"İsim: {item.FirstName}");
-                    Console.WriteLine($"Soyisim: {item.LastName}");
-                    Console.WriteLine($"Telefon Numarası: {item.PhoneNumber}");
-                    if (query.Count != i)
-                    {
-                        Console.WriteLine("-");
-                    }
-                    i++;
-                }
+                GetPersonList(query);
             }
-            else if (secim == 2)
+            else if (choice == 2)
             {
-                int i = 1;
                 Console.Write("Telefon numarası giriniz:");
-                int phoneNumber = int.Parse(Console.ReadLine());
+                string phoneNumber = Console.ReadLine();
 
                 var query = personList.Where(x => x.PhoneNumber == phoneNumber).ToList();
 
                 Console.WriteLine("Arama Sonuçlarınız:");
                 Console.WriteLine("**********************************************");
-                foreach (var item in query)
-                {
-                    Console.WriteLine($"İsim: {item.FirstName}");
-                    Console.WriteLine($"Soyisim: {item.LastName}");
-                    Console.WriteLine($"Telefon Numarası: {item.PhoneNumber}");
-                    if (query.Count != i)
-                    {
-                        Console.WriteLine("-");
-                    }
-                    i++;
-                }
+                GetPersonList(query);
             }
         }
     }
