@@ -1,0 +1,15 @@
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/bin/Debug/net5.0/proje-1.deps.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/bin/Debug/net5.0/proje-1.runtimeconfig.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/bin/Debug/net5.0/proje-1.runtimeconfig.dev.json
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/bin/Debug/net5.0/proje-1.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/bin/Debug/net5.0/ref/proje-1.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/bin/Debug/net5.0/proje-1.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/obj/Debug/net5.0/proje-1.csprojAssemblyReference.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/obj/Debug/net5.0/proje-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/obj/Debug/net5.0/proje-1.AssemblyInfoInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/obj/Debug/net5.0/proje-1.AssemblyInfo.cs
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/obj/Debug/net5.0/proje-1.csproj.CoreCompileInputs.cache
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/obj/Debug/net5.0/proje-1.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/obj/Debug/net5.0/ref/proje-1.dll
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/obj/Debug/net5.0/proje-1.pdb
+/Users/burakbaseskioglu/Documents/VSCode/Patika.dev/C#/proje-1/obj/Debug/net5.0/proje-1.genruntimeconfig.cache
