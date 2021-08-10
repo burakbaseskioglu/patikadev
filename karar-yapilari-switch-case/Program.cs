@@ -7,7 +7,7 @@ namespace karar_yapilari_switch_case
         static void Main(string[] args)
         {
             int month = DateTime.Now.Month;
-            //expression
+            //expression -> Koşul ifademiz
             switch (month)
             {
                 case 1:

@@ -47,6 +47,8 @@ namespace struct_kavrami
         {
             this.kisaKenar = kisaKenar;
             this.uzunKenar = uzunKenar;
+
+            
         }
     }
 }

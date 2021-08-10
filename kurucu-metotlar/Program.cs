@@ -38,6 +38,8 @@ namespace kurucu_metotlar
 
         }
 
+        //Calisan nesnesi ilk oluşturulduğunda yapılmasını istediğimiz işleri constructor yapar
+        //this: bu sınıfın elemanı demek
         public Calisan(string ad, string soyad)
         {
             this.Ad = ad;
